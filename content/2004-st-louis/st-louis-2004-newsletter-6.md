@@ -1,7 +1,6 @@
 Title: St Louis 2004 : Newsletter 6
 Date: 2004-07-22 11:00
 Author: julien
-Tags: newsletter, St Louis 2004
 Slug: st-louis-2004-newsletter-6
 
 Chers lecteurs,

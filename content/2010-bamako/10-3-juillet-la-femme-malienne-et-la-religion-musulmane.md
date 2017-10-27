@@ -1,7 +1,6 @@
 Title: #10 - 3 juillet / La femme Malienne et la religion musulmane
 Date: 2010-12-16 21:33
 Author: julien
-Tags: bamako 2010
 Slug: 10-3-juillet-la-femme-malienne-et-la-religion-musulmane
 
 Que les médias aiment à choisir les images et les idées qu'ils nous font

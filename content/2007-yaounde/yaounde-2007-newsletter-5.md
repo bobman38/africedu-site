@@ -1,7 +1,6 @@
 Title: Yaoundé 2007 : Newsletter 5
 Date: 2007-08-11 11:00
 Author: julien
-Tags: newsletter, Yaoundé 2007
 Slug: yaounde-2007-newsletter-5
 
 Bonjour à tous,  

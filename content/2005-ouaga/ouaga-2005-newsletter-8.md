@@ -1,7 +1,6 @@
 Title: Ouaga 2005 : Newsletter 8
 Date: 2005-08-08 09:00
 Author: julien
-Tags: newsletter, Ouaga 2005
 Slug: ouaga-2005-newsletter-8
 
 Les impressions de Julien et Clémence sur leurs formations de cette

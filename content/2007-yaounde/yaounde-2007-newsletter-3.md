@@ -1,7 +1,6 @@
 Title: Yaoundé 2007 : Newsletter 3
 Date: 2004-07-26 11:00
 Author: julien
-Tags: newsletter, Yaoundé 2007
 Slug: yaounde-2007-newsletter-3
 
 Bonjour à tous et en particulier coucou à ma maman !!!

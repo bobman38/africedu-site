@@ -1,7 +1,6 @@
 Title: #03 - 24 juin / Importance de notre action
 Date: 2010-12-16 21:18
 Author: julien
-Tags: bamako 2010
 Slug: 03-24-juin-importance-de-notre-action
 
 Au lycée, Moussa à tout fait pour permettre d'avoir une salle spacieuse,

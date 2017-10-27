@@ -1,7 +1,6 @@
 Title: Ouaga 2005 : Newsletter 4
 Date: 2005-07-19 09:00
 Author: julien
-Tags: newsletter, Ouaga 2005
 Slug: ouaga-2005-newsletter-4
 
 Bonjour, Vous l'attendez tous, autant que Analyse Modale 4, voici la

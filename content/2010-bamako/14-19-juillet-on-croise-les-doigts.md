@@ -1,7 +1,6 @@
 Title: #14 - 19 juillet / On croise les doigts
 Date: 2010-12-16 21:43
 Author: julien
-Tags: bamako 2010
 Slug: 14-19-juillet-on-croise-les-doigts
 
 Levé 6h30 aujourd'hui... 6h30 alors que rien n'est prévu avant 9h du

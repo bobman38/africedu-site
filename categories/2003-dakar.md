@@ -1,8 +1,9 @@
 Title: Dakar 2003
 Date: 2008-04-04 21:50
 Author: julien
-Tags: Dakar 2003
 Slug: dakar-2003
+
+# Dakar 2003
 
 Cette année, nous avons choisi de construire notre projet de
 développement durable sur le sol sénégalais afin de diversifier au
@@ -21,8 +22,7 @@ nous souhaitons retourner à l’université de Saint-Louis pour pérenniser
 l’action antérieure du projet 2001.
 
 </p>
-Partenariat avec une association locale
----------------------------------------
+##Partenariat avec une association locale
 
 </p>
 L’association BOKK JANG / BOKK JËF - SENEGAL, signifiant en langue
@@ -42,8 +42,7 @@ jeunes filles, personnes handicapées, enfants en situation d’échec
 scolaire, artisans, acteurs du secteur primaire…)
 
 </p>
-Développement d’un réseau informatique
---------------------------------------
+## Développement d’un réseau informatique
 
 </p>
 Une grande part de notre action sur le sol sénégalais consiste à
@@ -69,8 +68,7 @@ Cette formation sera axée sur trois grands pôles distincts :
     l’installation après notre départ.
 
 </p>
-Matériel informatique
----------------------
+## Matériel informatique
 
 </p>
 Les besoins informatiques sont des PC équipés pour le fonctionnement en
@@ -81,8 +79,7 @@ sont nécessaires à leur remise en état et leur maintenance. Pour finir,
 nous avons besoins de quelques imprimantes et onduleurs.
 
 </p>
-Matériel
---------
+## Matériel
 
 </p>
 -   50 ordinateurs ( Unités centrales, écrans, claviers souris…)
@@ -91,398 +88,34 @@ Matériel
 -   Cartes réseaux, barrettes de mémoire
 
 </p>
-Financier
----------
 
-</p>
+## Financier
 Financement Soutient financier pour Transport du matériel et des
 personnes
 
-</p>
-<table border="0">
-</p>
-<p>
-<thead>
-</p>
-<p>
-<tr>
-</p>
-<p>
-<th>
-Item
+|Item|Budget|
+|--- |--- |
+|Budget Ordinateurs|22867€|
+|Transport du matériel|3500€|
+|Transport de l’équipe|7700€|
+|Frais de séjour|2290€|
+|Divers|763€|
+|**Total**|**37118€**|
 
-</th>
-</p>
-<p>
-<th>
-Budget
+# Equipe
 
-</th>
-</p>
-<p>
-</tr>
-</p>
-<p>
-</thead>
-</p>
-<p>
-<tr>
-</p>
-<p>
-<td>
-Budget Ordinateurs
-
-</td>
-</p>
-<p>
-<td>
-22867€
-
-</td>
-</p>
-<p>
-</tr>
-</p>
-<p>
-<tr>
-</p>
-<p>
-<td>
-Transport du matériel
-
-</td>
-</p>
-<p>
-<td>
-3500€
-
-</td>
-</p>
-<p>
-</tr>
-</p>
-<p>
-<tr>
-</p>
-<p>
-<td>
-Transport de l’équipe
-
-</td>
-</p>
-<p>
-<td>
-7700€
-
-</td>
-</p>
-<p>
-</tr>
-</p>
-<p>
-<tr>
-</p>
-<p>
-<td>
-Frais de séjour
-
-</td>
-</p>
-<p>
-<td>
-2290€
-
-</td>
-</p>
-<p>
-</tr>
-</p>
-<p>
-<tr>
-</p>
-<p>
-<td>
-Divers
-
-</td>
-</p>
-<p>
-<td>
-763€
-
-</td>
-</p>
-<p>
-</tr>
-</p>
-<p>
-<tr>
-</p>
-<p>
-<td>
-**Total**
-
-</td>
-</p>
-<p>
-<td>
-**37118€**
-
-</td>
-</p>
-<p>
-</tr>
-</p>
-<p>
-</table>
-</p>
-Equipe
-------
-
-</p>
-<table border="0">
-</p>
-<p>
-<thead>
-</p>
-<p>
-<tr>
-</p>
-<p>
-<th>
-Nom
-
-</th>
-</p>
-<p>
-<th>
-Role
-
-</th>
-</p>
-<p>
-</tr>
-</p>
-<p>
-</thead>
-</p>
-<p>
-<tr>
-</p>
-<p>
-<td>
-Thibaud Helluy
-
-</td>
-</p>
-<p>
-<td>
-Président
-
-</td>
-</p>
-<p>
-</tr>
-</p>
-<p>
-<tr>
-</p>
-<p>
-<td>
-Bertrand Philippe
-
-</td>
-</p>
-<p>
-<td>
-Secrétaire
-
-</td>
-</p>
-<p>
-</tr>
-</p>
-<p>
-<tr>
-</p>
-<p>
-<td>
-Jeremy Sarantou
-
-</td>
-</p>
-<p>
-<td>
-Trésorier
-
-</td>
-</p>
-<p>
-</tr>
-</p>
-<p>
-<tr>
-</p>
-<p>
-<td>
-Mathieu Duchamp
-
-</td>
-</p>
-<p>
-<td>
-Info
-
-</td>
-</p>
-<p>
-</tr>
-</p>
-<p>
-<tr>
-</p>
-<p>
-<td>
-Nicolas Ortiou
-
-</td>
-</p>
-<p>
-<td>
-Info
-
-</td>
-</p>
-<p>
-</tr>
-</p>
-<p>
-<tr>
-</p>
-<p>
-<td>
-Nicolas Pallin
-
-</td>
-</p>
-<p>
-<td>
-Info
-
-</td>
-</p>
-<p>
-</tr>
-</p>
-<p>
-<tr>
-</p>
-<p>
-<td>
-Jean Chamel
-
-</td>
-</p>
-<p>
-<td>
-Logistique
-
-</td>
-</p>
-<p>
-</tr>
-</p>
-<p>
-<tr>
-</p>
-<p>
-<td>
-Romain Roussel
-
-</td>
-</p>
-<p>
-<td>
-Logistique
-
-</td>
-</p>
-<p>
-</tr>
-</p>
-<p>
-<tr>
-</p>
-<p>
-<td>
-Julien Brossollet
-
-</td>
-</p>
-<p>
-<td>
-Communication
-
-</td>
-</p>
-<p>
-</tr>
-</p>
-<p>
-<tr>
-</p>
-<p>
-<td>
-Isabelle Goullon
-
-</td>
-</p>
-<p>
-<td>
-Communication
-
-</td>
-</p>
-<p>
-</tr>
-</p>
-<p>
-<tr>
-</p>
-<p>
-<td>
-Vincent Baldeck
-
-</td>
-</p>
-<p>
-<td>
-Financement
-
-</td>
-</p>
-<p>
-</tr>
-</p>
-<p>
-<tr>
-</p>
-<p>
-<td>
-Guillaume Fayolle
-
-</td>
-</p>
-<p>
-<td>
-Financement
-
-</td>
-</p>
-<p>
-</tr>
-</p>
-<p>
-</table>
-</p>
+|Nom|Role|
+|--- |--- |
+|Thibaud Helluy|Président|
+|Bertrand Philippe|Secrétaire|
+|Jeremy Sarantou|Trésorier|
+|Mathieu Duchamp|Info|
+|Nicolas Ortiou|Info|
+|Nicolas Pallin|Info|
+|Jean Chamel|Logistique|
+|Romain Roussel|Logistique|
+|Julien Brossollet|Communication|
+|Isabelle Goullon|Communication|
+|Vincent Baldeck|Financement|
+|Guillaume Fayolle|Financement|
 

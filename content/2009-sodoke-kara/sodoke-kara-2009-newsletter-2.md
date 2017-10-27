@@ -1,7 +1,6 @@
 Title: Sodoké - Kara 2009 : Newsletter 2
 Date: 2009-07-18 10:00
 Author: julien
-Tags: newsletter, Sodoké - Kara 2009
 Slug: sodoke-kara-2009-newsletter-2
 
 Après deux semaine bien remplie, après 360 élèves formés et prêts à

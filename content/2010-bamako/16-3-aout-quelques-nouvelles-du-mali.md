@@ -1,7 +1,6 @@
 Title: #16 - 3 aout / Quelques nouvelles du Mali
 Date: 2010-12-16 21:45
 Author: julien
-Tags: bamako 2010
 Slug: 16-3-aout-quelques-nouvelles-du-mali
 
 Bonjour tout le monde, pour ceux qui consulteraient encore le blog nous

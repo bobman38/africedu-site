@@ -1,7 +1,6 @@
 Title: Dakar 2003 : Article paru dans Le Soleil
 Date: 2008-04-05 21:23
 Author: julien
-Tags: Dakar 2003
 Slug: dakar-2003-article-paru-dans-le-soleil
 
 Article extrait du quotidien national Le Soleil paru le mardi 8 juillet 2003 rubrique EDUCATION-SCIENCES & CULTURE

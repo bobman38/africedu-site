@@ -1,7 +1,6 @@
 Title: Gancon Bohicon 2012
 Date: 2012-01-03 18:43
 Author: julien
-Tags: Gancon Bohicon 2012
 Slug: gancon-bohicon-2012
 
 Cette année, nous avons pour but d’installer une quarantaine
@@ -44,157 +43,13 @@ agroéconomiste, Doctorant en Socio-démographie).
  
 
 </p>
-Equipe projet
--------------
+## Equipe projet
 
-</p>
-<table border="0">
-</p>
-<p>
-<thead>
-</p>
-<p>
-<tr>
-</p>
-<p>
-<th>
-Rôle
-
-</th>
-</p>
-<p>
-<th>
-Membres
-
-</th>
-</p>
-<p>
-</tr>
-</p>
-<p>
-</thead>
-</p>
-<p>
-<tr>
-</p>
-<p>
-<td>
-Président
-
-</td>
-</p>
-<p>
-<td>
-Cynthia DJONGOUE
-
-</td>
-</p>
-<p>
-</tr>
-</p>
-<p>
-<tr>
-</p>
-<p>
-<td>
-Trésorier
-
-</td>
-</p>
-<p>
-<td>
-</p>
-Mathias FAURE
-
-</p>
-<p>
-</td>
-</p>
-<p>
-</tr>
-</p>
-<p>
-<tr>
-</p>
-<p>
-<td>
-Secrétaire
-
-</td>
-</p>
-<p>
-<td>
-</p>
-Angélique VAUDAINE
-
-</p>
-<p>
-</td>
-</p>
-<p>
-</tr>
-</p>
-<p>
-<tr>
-</p>
-<p>
-<td>
-Matériel/Informatique
-
-</td>
-</p>
-<p>
-<td>
-Maxime PERNOD, Caroline BOUVET
-
-</td>
-</p>
-<p>
-</tr>
-</p>
-<p>
-<tr>
-</p>
-<p>
-<td>
-Logistique
-
-</td>
-</p>
-<p>
-<td>
-</p>
-Auriane FRAYCE, Mathieu FONTAN
-
-</p>
-<p>
-</td>
-</p>
-<p>
-</tr>
-</p>
-<p>
-<tr>
-</p>
-<p>
-<td>
-Financement, concours, sponsors et communication
-
-</td>
-</p>
-<p>
-<td>
-</p>
-Cyrille-Adrien DUCRET
-
-</p>
-<p>
-</td>
-</p>
-<p>
-</tr>
-</p>
-<p>
-</table>
-</p>
-
+|Rôle|Membres
+|--- |--- |
+|Président|Cynthia DJONGOUE|
+|Trésorier|Mathias FAURE|
+|Secrétaire|Angélique VAUDAINE|
+|Matériel/Informatique|Maxime PERNOD, Caroline BOUVET|
+|Logistique|Auriane FRAYCE, Mathieu FONTAN|
+|Financement, concours, sponsors et communication|Cyrille-Adrien DUCRET|

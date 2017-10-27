@@ -1,7 +1,6 @@
 Title: #12 - 8 juillet ... Une news longue mais trop courte pour décrire ces 24 heures...
 Date: 2010-12-16 21:37
 Author: julien
-Tags: bamako 2010
 Slug: 12-8-juillet-une-news-longue-mais-trop-courte-pour-decrire-ces-24-heures
 
 [![](http://4.bp.blogspot.com/_tav7TaMvWUo/TEQItkDzubI/AAAAAAAAACI/NpZ-GpuTpgg/s200/IMGP5674a.JPG)](http://4.bp.blogspot.com/_tav7TaMvWUo/TEQItkDzubI/AAAAAAAAACI/NpZ-GpuTpgg/s1600/IMGP5674a.JPG)  

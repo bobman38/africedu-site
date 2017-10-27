@@ -1,7 +1,6 @@
 Title: #09 - 1er juillet / Systeme D
 Date: 2010-12-16 21:23
 Author: julien
-Tags: bamako 2010
 Slug: 09-1er-juillet-systeme-d
 
 Les machines ne sont pas là et tous les élèves ont été prévenus que les

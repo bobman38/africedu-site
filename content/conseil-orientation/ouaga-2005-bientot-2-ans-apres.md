@@ -1,7 +1,6 @@
 Title: OUAGA 2005, bientôt 2 ans après...
 Date: 2007-03-09 23:00
 Author: julien
-Tags: Ouaga 2005
 Slug: ouaga-2005-bientot-2-ans-apres
 
 *Mail envoyé par Julien en Mars 2007 :*

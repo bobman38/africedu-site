@@ -1,7 +1,6 @@
 Title: #06 - Week-end du 26/27 juin - Le dimance à Bamako
 Date: 2010-12-16 21:20
 Author: julien
-Tags: bamako 2010
 Slug: 06-week-end-du-2627-juin-le-dimance-a-bamako
 
 Le 26 nous partons avec Ousmane visiter le musée national du Mali.

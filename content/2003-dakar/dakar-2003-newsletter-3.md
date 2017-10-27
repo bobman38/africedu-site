@@ -1,7 +1,6 @@
 Title: Dakar 2003 : Newsletter 3
 Date: 2008-04-05 21:09
 Author: julien
-Tags: Dakar 2003, newsletter
 Slug: dakar-2003-newsletter-3
 
 **Newsletter 3. Lundi 7 juillet au lundi 14 juillet 2003.**

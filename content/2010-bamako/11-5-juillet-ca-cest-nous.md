@@ -1,7 +1,6 @@
 Title: #11 - 5 juillet / Ca c'est nous !
 Date: 2010-12-16 21:34
 Author: julien
-Tags: bamako 2010
 Slug: 11-5-juillet-ca-cest-nous
 
 [![](http://4.bp.blogspot.com/_tav7TaMvWUo/TDJiKyUEGAI/AAAAAAAAABI/7q7COuv5I88/s400/mali+2010.JPG)](http://4.bp.blogspot.com/_tav7TaMvWUo/TDJiKyUEGAI/AAAAAAAAABI/7q7COuv5I88/s1600/mali+2010.JPG)

@@ -1,7 +1,6 @@
 Title: #04 - 24 juin / suite
 Date: 2010-12-16 21:18
 Author: julien
-Tags: bamako 2010
 Slug: 04-24-juin-suite
 
 Au terrain de sport on prend une pluie assez monstrueuse mais déjà vue

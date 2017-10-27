@@ -1,7 +1,6 @@
 Title: Analyse de Julien
 Date: 2008-03-26 22:20
 Author: julien
-Tags: Julien, Ouaga 2005
 Slug: analyse-de-julien
 
 *En réponse au mail de JS, my 2 cents :*

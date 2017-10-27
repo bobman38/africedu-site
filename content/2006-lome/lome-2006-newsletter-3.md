@@ -1,7 +1,6 @@
 Title: Lomé 2006 : Newsletter 3
 Date: 2006-07-15 09:00
 Author: julien
-Tags: Lomé 2006, newsletter
 Slug: lome-2006-newsletter-3
 
 Et c'est reparti pour la suite des aventu' togolaises!!

@@ -1,7 +1,6 @@
 Title: Bilan réunion 21/05/2008
 Date: 2008-05-22 11:11
 Author: julien
-Tags: Conseil d'Orientation
 Slug: bilan-reunion-21052008
 
 Hier soir a donc eu lieu dans les locaux de l'ECAM la réunion

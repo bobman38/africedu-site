@@ -1,7 +1,6 @@
 Title: Newsletter n°1 CO
 Date: 2009-03-02 12:09
 Author: lyonel
-Tags: Newsletter CO
 Slug: newsletter-ndeg1-co
 
 Bonjour à tous,

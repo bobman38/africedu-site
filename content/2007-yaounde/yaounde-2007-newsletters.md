@@ -1,7 +1,6 @@
 Title: Yaoundé 2007 : Newsletters
 Date: 2007-07-09 10:00
 Author: julien
-Tags: newsletter, Yaoundé 2007
 Slug: yaounde-2007-newsletters
 
 Ca y est nous sommes arrivés à Yaoundé après plusieurs péripéties. Nous

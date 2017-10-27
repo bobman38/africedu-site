@@ -1,7 +1,6 @@
 Title: #13 - 11 juillet / voyage en pays Dogon
 Date: 2010-12-16 21:42
 Author: julien
-Tags: bamako 2010
 Slug: 13-11-juillet-voyage-en-pays-dogon
 
 Nous partons lundi 12 vers 6h du matin au pays dogon avec notre guide

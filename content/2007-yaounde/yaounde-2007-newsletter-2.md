@@ -1,7 +1,6 @@
 Title: Yaoundé 2007 : Newsletter 2
 Date: 2007-07-16 10:00
 Author: julien
-Tags: newsletter, Yaoundé 2007
 Slug: yaounde-2007-newsletter-2
 
 Bonjour à tous,

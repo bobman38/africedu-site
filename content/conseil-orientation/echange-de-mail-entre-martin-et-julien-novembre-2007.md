@@ -1,7 +1,6 @@
 Title: Echange de mail entre Martin et Julien (Novembre 2007)
 Date: 2007-11-07 23:00
 Author: julien
-Tags: Conseil d'Orientation, Julien, Martin, Ouaga 2005
 Slug: echange-de-mail-entre-martin-et-julien-novembre-2007
 
 *Un petit échange entre Martin et moi-même suite à la réunion du 7

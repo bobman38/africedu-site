@@ -1,7 +1,6 @@
 Title: Lomé 2006 : Newsletters
 Date: 2006-07-04 09:00
 Author: julien
-Tags: Lomé 2006, newsletter
 Slug: lome-2006-newsletters
 
 Bonjour à tous et bienvenue à la newsletter Afric'Edu n°1!!

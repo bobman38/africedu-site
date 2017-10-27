@@ -1,7 +1,6 @@
 Title: Douala 2002
 Date: 2008-04-04 21:41
 Author: julien
-Tags: Douala 2002
 Slug: douala-2002
 
 Au vu des résultats positifs de l’expérience antérieure, l’association
@@ -37,180 +36,17 @@ Les partenaires du projet 2002 sont:
 -   LE CROUS
 
 </p>
-**Equipe**
 
-</p>
-<table border="0">
-</p>
-<p>
-<thead>
-</p>
-<p>
-<tr>
-</p>
-<p>
-<th>
-Nom
+## Equipe
 
-</th>
-</p>
-<p>
-<th>
-Role
-
-</th>
-</p>
-<p>
-</tr>
-</p>
-<p>
-</thead>
-</p>
-<p>
-<tr>
-</p>
-<p>
-<td>
-Eric Bogne
-
-</td>
-</p>
-<p>
-<td>
-Président
-
-</td>
-</p>
-<p>
-</tr>
-</p>
-<p>
-<tr>
-</p>
-<p>
-<td>
-Mulliez Olivier
-
-</td>
-</p>
-<p>
-<td>
-Président
-
-</td>
-</p>
-<p>
-</tr>
-</p>
-<p>
-<tr>
-</p>
-<p>
-<td>
-Quentin Charoy
-
-</td>
-</p>
-<p>
-<td>
-Trésorier
-
-</td>
-</p>
-<p>
-</tr>
-</p>
-<p>
-<tr>
-</p>
-<p>
-<td>
-Alice Jabouley
-
-</td>
-</p>
-<p>
-<td>
- 
-
-</td>
-</p>
-<p>
-</tr>
-</p>
-<p>
-<tr>
-</p>
-<p>
-<td>
-Julie Bartolo
-
-</td>
-</p>
-<p>
-<td>
- 
-
-</td>
-</p>
-<p>
-</tr>
-</p>
-<p>
-<tr>
-</p>
-<p>
-<td>
-Samuel Rocher
-
-</td>
-</p>
-<p>
-<td>
- 
-
-</td>
-</p>
-<p>
-</tr>
-</p>
-<p>
-<tr>
-</p>
-<p>
-<td>
-Julien Conesa
-
-</td>
-</p>
-<p>
-<td>
- 
-
-</td>
-</p>
-<p>
-</tr>
-</p>
-<p>
-<tr>
-</p>
-<p>
-<td>
-Laurie Descours
-
-</td>
-</p>
-<p>
-<td>
- 
-
-</td>
-</p>
-<p>
-</tr>
-</p>
-<p>
-</table>
-</p>
+|Nom|Role|
+|--- |--- |
+|Eric Bogne|Président|
+|Mulliez Olivier|Président|
+|Quentin Charoy|Trésorier|
+|Alice Jabouley||
+|Julie Bartolo||
+|Samuel Rocher||
+|Julien Conesa||
+|Laurie Descours||
 

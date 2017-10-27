@@ -1,7 +1,6 @@
 Title: Ouaga 2005 : Newsletter 6
 Date: 2005-07-26 09:00
 Author: julien
-Tags: newsletter, Ouaga 2005
 Slug: ouaga-2005-newsletter-6
 
 Newsletter n°6 : Week-end à Bobo-Dioulasso et Banfora

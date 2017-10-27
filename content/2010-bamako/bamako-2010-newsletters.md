@@ -1,7 +1,6 @@
 Title: Bamako 2010 : Newsletters
 Date: 2010-12-16 20:53
 Author: julien
-Tags: bamako 2010
 Slug: bamako-2010-newsletters
 
 Découvrez ici notre journal de vie. Jour après jour vous connaitrez tout

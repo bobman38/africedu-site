@@ -1,7 +1,6 @@
 Title: Dakar 2003 : Newsletter 2
 Date: 2008-04-05 21:02
 Author: julien
-Tags: Dakar 2003, newsletter
 Slug: dakar-2003-newsletter-2
 
 Newsletter 2. semaine 29 juin au 6 juillet.

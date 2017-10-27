@@ -1,7 +1,6 @@
 Title: Ouaga 2005 : Newsletter 2
 Date: 2005-07-12 09:00
 Author: julien
-Tags: newsletter, Ouaga 2005
 Slug: ouaga-2005-newsletter-2
 
 Bonjour à tous,

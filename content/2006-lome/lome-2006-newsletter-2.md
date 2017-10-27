@@ -1,7 +1,6 @@
 Title: Lomé 2006 : Newsletter 2
 Date: 2006-07-09 09:00
 Author: julien
-Tags: Lomé 2006, newsletter
 Slug: lome-2006-newsletter-2
 
 Bonjour à tous !

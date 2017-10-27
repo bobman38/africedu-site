@@ -1,7 +1,6 @@
 Title: Lomé 2006 : Présentation
 Date: 2005-11-06 10:00
 Author: julien
-Tags: Lomé 2006
 Slug: lome-2006-presentation
 
 Salut les anciens!!

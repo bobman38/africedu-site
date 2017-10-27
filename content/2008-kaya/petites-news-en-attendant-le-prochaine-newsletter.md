@@ -1,7 +1,6 @@
 Title: Petites news en attendant le prochaine newsletter
 Date: 2008-07-28 18:44
 Author: lyonel
-Tags: Kaya 2008
 Slug: petites-news-en-attendant-le-prochaine-newsletter
 
 Salut à toutes et à tous !

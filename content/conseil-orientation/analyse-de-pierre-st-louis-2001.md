@@ -1,7 +1,6 @@
 Title: Analyse de Pierre, St Louis 2001
 Date: 2008-03-27 00:26
 Author: julien
-Tags: Pierre, St Louis 2001
 Slug: analyse-de-pierre-st-louis-2001
 
 \_Une analyse de Pierre, qui faisait partie de la première équipe

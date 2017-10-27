@@ -1,7 +1,6 @@
 Title: Ouaga 2005 : Newsletter 3
 Date: 2005-07-15 09:00
 Author: julien
-Tags: newsletter, Ouaga 2005
 Slug: ouaga-2005-newsletter-3
 
 Suite de nos aventures à Ouagadougou :

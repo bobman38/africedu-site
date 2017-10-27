@@ -1,7 +1,6 @@
 Title: Lomé 2006 : Newsletter 6
 Date: 2006-07-25 09:00
 Author: julien
-Tags: Lomé 2006, newsletter
 Slug: lome-2006-newsletter-6
 
 Jeudi 20 Juillet

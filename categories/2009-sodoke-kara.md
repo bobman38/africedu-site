@@ -1,11 +1,9 @@
 Title: Sodoké - Kara 2009
 Date: 2010-01-26 08:35
 Author: julien
-Tags: Sodoké - Kara 2009
 Slug: sodoke-kara-2009
 
-Résumé  
--------
+# Sodoké - Kara 2009
 
 </p>
 En 2009, le projet est venu en aide au lycée de la ville de Sokodé au
@@ -30,170 +28,14 @@ comprenait l’équipement d’une salle informatique pour l'université
 informatique.
 
 </p>
-Equipe  
--------
+## Equipe  
 
-</p>
-<table border="0">
-</p>
-<p>
-<thead>
-</p>
-<p>
-<tr>
-</p>
-<p>
-<th>
-Nom
-
-</th>
-</p>
-<p>
-<th>
-Rôle
-
-</th>
-</p>
-<p>
-</tr>
-</p>
-<p>
-</thead>
-</p>
-<p>
-<tr>
-</p>
-<p>
-<td>
-Camille NOROTTE
-
-</td>
-</p>
-<p>
-<td>
-Présidente
-
-</td>
-</p>
-<p>
-</tr>
-</p>
-<p>
-<tr>
-</p>
-<p>
-<td>
-</p>
-Thibault DE CANSON
-
-</p>
-<p>
-</td>
-</p>
-<p>
-<td>
-Trésorier
-
-</td>
-</p>
-<p>
-</tr>
-</p>
-<p>
-<tr>
-</p>
-<p>
-<td>
-</p>
-MAFO WAMBO Thérèse
-
-</p>
-<p>
-</td>
-</p>
-<p>
-<td>
-Secrétaire
-
-</td>
-</p>
-<p>
-</tr>
-</p>
-<p>
-<tr>
-</p>
-<p>
-<td>
-TRONCY Damien, BESNARD Emmanuel
-
-</td>
-</p>
-<p>
-<td>
-Informatique
-
-</td>
-</p>
-<p>
-</tr>
-</p>
-<p>
-<tr>
-</p>
-<p>
-<td>
-COURLET DEVREGILLE Guilhem, AUGERD Pierre-Yves
-
-</td>
-</p>
-<p>
-<td>
-Logistique
-
-</td>
-</p>
-<p>
-</tr>
-</p>
-<p>
-<tr>
-</p>
-<p>
-<td>
-KOBYAGDA Rahamata, NOROTTE Camille, MAFO WAMBO Thérèse
-
-</td>
-</p>
-<p>
-<td>
-Financement et concours
-
-</td>
-</p>
-<p>
-</tr>
-</p>
-<p>
-<tr>
-</p>
-<p>
-<td>
-MUTILLOD Paul, DE CANSON Thibault
-
-</td>
-</p>
-<p>
-<td>
-Communication et sponsors
-
-</td>
-</p>
-<p>
-</tr>
-</p>
-<p>
-</table>
-</p>
-</p>
-
+|Rôle|Membres|
+|--- |--- |
+|Camille NOROTTE|Présidente|
+|Thibault DE CANSON|Trésorier|
+|MAFO WAMBO Thérèse|Secrétaire|
+|TRONCY Damien, BESNARD Emmanuel|Informatique|
+|COURLET DEVREGILLE Guilhem, AUGERD Pierre-Yves|Logistique|
+|KOBYAGDA Rahamata, NOROTTE Camille, MAFO WAMBO Thérèse|Financement et concours|
+|MUTILLOD Paul, DE CANSON Thibault|Communication et sponsors|

@@ -1,7 +1,6 @@
 Title: Yaoundé 2007 : Présentation 2
 Date: 2007-05-29 11:00
 Author: julien
-Tags: Yaoundé 2007
 Slug: yaounde-2007-presentation-2
 
 Bonjour à vous tous qui avez fait parti d'Afric'Edu !!

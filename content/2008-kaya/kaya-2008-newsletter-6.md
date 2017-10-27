@@ -1,7 +1,6 @@
 Title: Kaya 2008 : Newsletter 6
 Date: 2008-08-06 17:13
 Author: lyonel
-Tags: Kaya 2008
 Slug: kaya-2008-newsletter-6
 
 Lundi 04 Août, il est 21:20, et c'est bientôt fini. Tout le travail qu'a

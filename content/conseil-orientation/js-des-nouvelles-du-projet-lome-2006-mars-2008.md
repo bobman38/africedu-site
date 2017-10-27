@@ -1,7 +1,6 @@
 Title: JS : Des nouvelles du projet Lomé 2006 (Mars 2008)
 Date: 2008-03-23 23:00
 Author: julien
-Tags: JS, Lomé 2006
 Slug: js-des-nouvelles-du-projet-lome-2006-mars-2008
 
 *Je me permet de mettre ici un mail de JS reçu en mars 2008, concernant

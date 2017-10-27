@@ -1,7 +1,6 @@
 Title: Yaoundé 2007 : Présentation 1
 Date: 2007-02-22 06:52
 Author: julien
-Tags: Yaoundé 2007
 Slug: yaounde-2007-presentation-1
 
 Un petit mail pour vous tenir au courant de ce qui se passe dans

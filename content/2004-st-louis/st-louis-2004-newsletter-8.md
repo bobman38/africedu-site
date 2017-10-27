@@ -1,7 +1,6 @@
 Title: St Louis 2004 : Newsletter 8
 Date: 2004-08-02 10:00
 Author: julien
-Tags: newsletter, St Louis 2004
 Slug: st-louis-2004-newsletter-8
 
 Chers lecteurs,

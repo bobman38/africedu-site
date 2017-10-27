@@ -1,7 +1,6 @@
 Title: Dakar 2003 : Newsletters
 Date: 2008-04-05 20:37
 Author: julien
-Tags: Dakar 2003, newsletter
 Slug: dakar-2003-newsletters
 
 Au mois de mai, les membres d’Afric’Edu, association d’étudiants

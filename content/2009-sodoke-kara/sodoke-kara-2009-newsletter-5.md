@@ -1,7 +1,6 @@
 Title: Sodoké - Kara 2009 : Newsletter 5
 Date: 2009-08-06 10:00
 Author: julien
-Tags: newsletter, Sodoké - Kara 2009
 Slug: sodoke-kara-2009-newsletter-5
 
 Bonjour à tous,

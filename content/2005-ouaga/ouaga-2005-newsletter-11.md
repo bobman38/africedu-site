@@ -1,7 +1,6 @@
 Title: Ouaga 2005 : Newsletter 11
 Date: 2005-12-23 10:00
 Author: julien
-Tags: newsletter, Ouaga 2005
 Slug: ouaga-2005-newsletter-11
 
 Mais tout d'abord un bref rappel, sur notre projet:

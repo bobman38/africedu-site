@@ -20,7 +20,7 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 PLUGIN_PATHS = ["../pelican-plugins"]
-PLUGINS = ["category_meta"]
+PLUGINS = ["autopages", "pin_to_top", "bootstrapify"]
 
 # Blogroll
 LINKS = (('Pelican', 'http://getpelican.com/'),

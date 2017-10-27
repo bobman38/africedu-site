@@ -1,7 +1,6 @@
 Title: #15 - 25 juillet / Plutot Sleen qu'Ideal, mais bon...
 Date: 2010-12-16 21:44
 Author: julien
-Tags: bamako 2010
 Slug: 15-25-juillet-plutot-sleen-quideal-mais-bon
 
 Bon, le matériel est bel et bien... pas arrivé. Et n'arrivera pas

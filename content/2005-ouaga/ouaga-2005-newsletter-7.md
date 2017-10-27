@@ -1,7 +1,6 @@
 Title: Ouaga 2005 : Newsletter 7
 Date: 2005-08-04 09:00
 Author: julien
-Tags: newsletter, Ouaga 2005
 Slug: ouaga-2005-newsletter-7
 
 Formation thème 1: François & Eric

@@ -1,7 +1,6 @@
 Title: Ouaga 2005 : Newsletter 10
 Date: 2005-12-17 10:00
 Author: julien
-Tags: newsletter, Ouaga 2005
 Slug: ouaga-2005-newsletter-10
 
 L'arrivée sur Ouaga était programmé pour 17h30 heure locale, mais une

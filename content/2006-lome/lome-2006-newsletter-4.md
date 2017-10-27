@@ -1,7 +1,6 @@
 Title: Lomé 2006 : Newsletter 4
 Date: 2006-07-16 09:00
 Author: julien
-Tags: Lomé 2006, newsletter
 Slug: lome-2006-newsletter-4
 
 Mardi : Au bou'ot, à nouveau

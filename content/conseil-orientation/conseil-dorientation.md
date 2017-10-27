@@ -1,7 +1,6 @@
 Title: Conseil d'Orientation
 Date: 2008-05-22 14:09
 Author: julien
-Tags: A retenir
 Slug: conseil-dorientation
 
 Durant les mois de juillet et d'aout 2006 ; après avoir signé pour mon

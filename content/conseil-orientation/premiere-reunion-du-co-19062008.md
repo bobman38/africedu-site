@@ -1,7 +1,6 @@
 Title: Première réunion du CO (19/06/2008)
 Date: 2008-06-29 21:32
 Author: julien
-Tags: Conseil d'Orientation
 Slug: premiere-reunion-du-co-19062008
 
 Petit compte-rendu rapide pour vous résumer la première réunion du CO

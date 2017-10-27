@@ -1,7 +1,6 @@
 Title: Ashanti 2011
 Date: 2010-12-16 20:37
 Author: julien
-Tags: ashanti 2011
 Slug: ashanti-2011
 
 Cette année, nous avons pour but d’installer une quarantaine
@@ -32,154 +31,13 @@ vers l’Afrique anglophone pour les années à venir.
  
 
 </p>
-Equipe projet
--------------
+## Equipe projet
 
-</p>
-<table border="0">
-</p>
-<p>
-<thead>
-</p>
-<p>
-<tr>
-</p>
-<p>
-<th>
-Rôle
-
-</th>
-</p>
-<p>
-<th>
-Membres
-
-</th>
-</p>
-<p>
-</tr>
-</p>
-<p>
-</thead>
-</p>
-<p>
-<tr>
-</p>
-<p>
-<td>
-Président
-
-</td>
-</p>
-<p>
-<td>
-Guillaume Targe
-
-</td>
-</p>
-<p>
-</tr>
-</p>
-<p>
-<tr>
-</p>
-<p>
-<td>
-Trésorier
-
-</td>
-</p>
-<p>
-<td>
-</p>
-Rémy Martins
-
-</p>
-<p>
-</td>
-</p>
-<p>
-</tr>
-</p>
-<p>
-<tr>
-</p>
-<p>
-<td>
-Secrétaire
-
-</td>
-</p>
-<p>
-<td>
-</p>
-Valérie Nicolet
-
-</p>
-<p>
-</td>
-</p>
-<p>
-</tr>
-</p>
-<p>
-<tr>
-</p>
-<p>
-<td>
-Matériel/Informatique
-
-</td>
-</p>
-<p>
-<td>
-Florent Laroche, Damien Agnellet, Aymeric Raguet
-
-</td>
-</p>
-<p>
-</tr>
-</p>
-<p>
-<tr>
-</p>
-<p>
-<td>
-Logistique
-
-</td>
-</p>
-<p>
-<td>
-</p>
-Isabelle Costa, Baptiste Viela
-
-</p>
-<p>
-</td>
-</p>
-<p>
-</tr>
-</p>
-<p>
-<tr>
-</p>
-<p>
-<td>
-Financement, concours, sponsors et communication
-
-</td>
-</p>
-<p>
-<td>
-David Lelong, Valérie Nicolet
-
-</td>
-</p>
-<p>
-</tr>
-</p>
-<p>
-</table>
-</p>
-
+|Rôle|Membres|
+|--- |--- |
+|Président|Guillaume Targe|
+|Trésorier|Rémy Martins|
+|Secrétaire|Valérie Nicolet|
+|Matériel/Informatique|Florent Laroche, Damien Agnellet, Aymeric Raguet|
+|Logistique|Isabelle Costa, Baptiste Viela|
+|Financement, concours, sponsors et communication|David Lelong, Valérie Nicolet|

@@ -1,7 +1,6 @@
 Title: Ouaga 2005 : Newsletter 9
 Date: 2005-08-13 09:00
 Author: julien
-Tags: newsletter, Ouaga 2005
 Slug: ouaga-2005-newsletter-9
 
 Samedi 6 août :
