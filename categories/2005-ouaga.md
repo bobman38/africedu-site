@@ -8,6 +8,8 @@ Slug: 2005-ouaga
 
 ![equipe et partenaire du sud]({filename}/images/equipe%20et%20partenaire%20du%20sud.jpg "equipe et partenaire du sud")
 
+https://youtu.be/oYt36wHsXFk
+
 |Nom|Role
 |--- |--- |
 |Martin Stocker|President|

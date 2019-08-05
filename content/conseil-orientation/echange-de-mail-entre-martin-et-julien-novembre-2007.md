@@ -46,6 +46,11 @@ novembre 2007 ; où le **Conseil d'Orientation** est évoqué...*
 </p>
 > Yes un ptit mail avec tous les contacts de notre équipe ; je vais
 > pouvoir envoyer ma connerie :  
+
+https://youtu.be/qyHXXCxdHQ8
+
+https://youtu.be/s0vGaldm6aU
+
 >
 > Nos films en flash : quelle révélation :)  
 >
