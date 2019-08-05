@@ -1,0 +1,423 @@
+>chanserv< op #africedu
+* ChanServ donne l'état d'opérateur de canal à julienbras
+<julienbras> bonjour traveler
+* Traveler22 (~fn-javach@92.61.135.251) a rejoint #africedu
+* Traveler22 est parti (Quit: Java user signed off)
+* Traveler79 (~fn-javach@92.61.135.251) a rejoint #africedu
+* Traveler79 s'appelle maintenant Lyonel
+<julienbras> salut lyonel :)
+<Lyonel> hello !
+<Lyonel> je finis un truc et j'arrive !
+<julienbras> ok c pas 21h ^^ ;)
+* Traveler est parti (Quit: Java user signed off)
+* Traveler10 (~fn-javach@89.211.60.10) a rejoint #africedu
+<Traveler10> Test ?
+* Traveler10 est parti (Client Quit)
+<julienbras> les gens ne restent pas longtemps :)
+* Traveler21 (~fn-javach@89.211.60.10) a rejoint #africedu
+<Traveler21> Bonsoir.
+<julienbras> bonsoir :)
+<julienbras> bienvenue sur le chan africedu
+<julienbras> y'a un truc en bas à droite pour changer son pseudo en un truc connu si tu veux
+<Traveler21> Merci
+<Lyonel> et voila je suis de retour ! 21h pétantes !
+<julienbras> lol
+<julienbras> bon alors j'avais les confirmations des présences de sego, et laurent
+<Traveler21> Laurent est la
+<julienbras> c'est qui traveler21 ?
+<julienbras> ok
+<julienbras> :)
+<julienbras> manque ségo donc ;)
+<Traveler21> Mais n'arrive pas a changer son pseudo...
+<julienbras> met laurent2345
+<julienbras> ca devrait passer
+* Traveler21 s'appelle maintenant Laurent2345
+<julienbras> y'en a bcp de laurent sur le serveur je pense
+<Laurent2345> Jolie !
+<julienbras> effctivement
+<julienbras> on attends qq minutes l'arrivée de ségo ?
+<Laurent2345> Ok.
+<julienbras> bon quoi de neuf de votre coté ? 
+* Lyonel est parti (Ping timeout: 252 seconds)
+<Laurent2345> De mon cotes, toujours sur Doha (Qatar)
+<julienbras> a ouais quand meme
+<Laurent2345> En train d'essayer de mettre en route une usine d'Aluminium
+<julienbras> la magie d'internet
+<julienbras> ca pue l'alu non ?
+<Laurent2345> Magnifique !
+<Laurent2345> Lol... Non, ca vas. Ou plutot  on s'habitue
+<Laurent2345> Et toi ?
+<Laurent2345> quoi de neuf /
+<julienbras> toujours a paname / toujours dans l'info...
+<julienbras> la vie est belle ici !
+<julienbras> et y'a de super projets (africedu :) )
+<Laurent2345> Impecable
+<julienbras> c'est quelle heure chez toi ?
+<Laurent2345> A ce propos, tu as eu des nouvelles du nouveau projet en cours ? Rien de mon cotes
+<Laurent2345> Il est 23h10
+<julienbras> vite fais ouais
+<julienbras> ok
+<julienbras> je suis les nouvelles sur le site web
+* Laurent2345 est parti (Quit: Java user signed off)
+* Traveler11 (~fn-javach@89.211.60.10) a rejoint #africedu
+* Traveler11 s'appelle maintenant Laurent2346
+<julienbras> l'interface du chat marche mal ?
+<Laurent2346> Re-bonoir
+<julienbras> re-bonsoir !
+<julienbras> lyonel nous a abandonné ?
+<Laurent2346> Non, c'est que j'ai ouvert un onglet sur safari et ca m'as fais sortir du chat
+<julienbras> ok
+<Laurent2346> Pas la moindre idee de ou il est
+<julienbras> par contre lyonel est vrai parti
+<julienbras> j'aime les réunions a 2 :)
+<Laurent2346> Lol
+<julienbras> bon et toi c'est quoi ta vision du CO ?
+<julienbras> quel avenir ?
+<julienbras> est-ce qu'on ne se bouge pas pour rien ?
+<Laurent2346> Pardon, je n'arrivais plus a rentrer de texte
+<Laurent2346> Ma vision du CO
+<Laurent2346> C'est un etres bonne chose
+<Laurent2346> Mais il faut vraiment etre plus nombreux pour que de bonnes choses en ressorte
+<Laurent2346> quitte a demander moins d'investissement aux membres
+<Laurent2346> Je trouve le concept du chat genial
+<julienbras> ca risque d'etre plus compliqué si on on est tres nombreux non ?
+<julienbras> ;) merci pour le chat 
+<Laurent2346> comme outils de partage de nos idees
+<Laurent2346> Effectivement
+<Laurent2346> Mais d'un autre cote cela assure un nombre correct de personnes presentes
+<julienbras> lol c sur
+<julienbras> il faudrait 'ratisser' plus large donc selon toi ?
+<Laurent2346> Oui
+<Laurent2346> Et que nos amis de lequipe en cours puisse etre dans les environs
+<julienbras> yes
+<Laurent2346> Ils sont 15 a ce que je vois sur le site
+<julienbras> déjà faut recruter du 2009
+<julienbras> y'en a pas dans le CO
+<julienbras> et il ya eu tellement de désistement, je crois qu'on est plus que 5 actif :)
+<Laurent2346> Environ, oui.
+<julienbras> pour l'instant selon ma vision
+<Laurent2346> oui
+<julienbras> on est un groupe de 5-6 rigolos qui s'amusent à dire qu'on peut aider l'équipe en cours
+<julienbras> on a rien fait
+<julienbras> et rien produit pour eux
+* Traveler73 (~fn-javach@92.61.135.251) a rejoint #africedu
+<Laurent2346> Bien dis
+<julienbras> lyonel est de retour
+* Traveler73 s'appelle maintenant Lyonel
+<Laurent2346> Eff
+<julienbras> on a p-e de belle idée mais aucin réalisme je pense
+<Lyonel> oui j'ai eu un pb de wifi je crois
+<julienbras> lol
+<julienbras> on va attaquer serieusement la je pense
+<julienbras> sego a du oublié :D
+<Lyonel> ok
+<julienbras> je repose l'OJ de la réunion (bien sur ouvert à commentaire) :
+<julienbras> * Réflexion sur l'intéret du CO
+<julienbras> * Statut sur le suivi des projets (fiches projets)
+<julienbras> * Organisation des points CO : périodicité / CR ...
+<julienbras> * Organiser un suivi de l'équipe en cours (on en sont-ils ? comment les aider ?)
+<julienbras> * Com : newsletters // site web // visibilité vis à vis de l'ecam
+<julienbras> 1/ Interet du CO
+<Laurent2346> Pour le status de suivi des projet, j'ai envoye une relance a nos anciens amis de Yaounde. Pas encore de retour
+<julienbras> on discutais avec laurent justement du 'réalisme' du CO jusqu'a présent : c'est 0 pour l'équipe en cours
+<Laurent2346> D'accord
+<julienbras> ok pour le suivi de projet
+<julienbras> on va rester sur le premier point quand meme :)
+<julienbras> est-ce intéressant de garder cette strucutre si on n'est pas capable de faire qqch pour l'équipe en cours ?
+<julienbras> je ne vois qu'un moyen d'avoir du réalisme :
+<julienbras> 1/ se fixer des objectifs réalisable
+<julienbras> 2/ les suivre en réunion régulières !
+<Laurent2346> Exact
+<Laurent2346> Lyonel ?
+<julienbras> donc je propose de fixer des réunions mensuelles a partir d'aujourd'hui pour suivre nos actions
+<Lyonel> alors en ce qui me concerne j'ai pas mal discuté avec l'equipe de l'année dernière
+<julienbras> yes
+<julienbras> vas y
+<Lyonel> et des gens qui sont dans l'humanitaire dans des grdes structures sur Lyon
+<julienbras> de l'équipe ?
+<Lyonel> non
+<Lyonel> et ils m'ont tous plus ou moins dis que l'idée d'avoir des anciens qui aident et suivent les projets & équipes c'est génial
+<julienbras> ca on est d'accord
+<julienbras> mais qu'est ce qu'on a fait pour cette équipe ? perso j'ai rien fait
+<Laurent2346> La meme
+<Laurent2346> Mais comme tu le mentionne plus haut
+<Laurent2346> Si on devute avec des reunions mensuel, un peu de recherche entre temps
+<Laurent2346> des compte rendu envoye aux ancins
+<julienbras> d'accord la dessus
+<Laurent2346> On pourrai arriver a stabiliser nos actions. Je crois.
+<julienbras> je suis ok avec toi laurent
+<julienbras> donc ACTION: réunions mensuelles / CR aux anciens / actions suivies
+<julienbras> (c'est pour tagger nos actions dans le CR qui suivera, plus simple à visualiser :) )
+<Laurent2346> Exact
+<julienbras> (vieux truc d'IRC-addict)
+<Laurent2346> Lol
+* Lyonel est parti (Ping timeout: 252 seconds)
+<julienbras> ah, encore le wifi de lyonel :)
+<julienbras> et on peut aussi dire qu'on ne remet pas en question l'intéret du CO pour africedu
+<julienbras> on remet juste en question l'organisation du CO !
+* Traveler18 (~fn-javach@92.61.135.251) a rejoint #africedu
+<julienbras> wifi-man est de retour
+<Laurent2346> Je nous fixerai un objectif assez simple pour les 2-3 prochaines semaines. Faire un mail d'intro a l'equipe en place, recuperer un max d'info sur les aciens projets et en faire un petit fichier
+<Laurent2346> Lol
+<Laurent2346> Et autres ?
+<Traveler18> alors la j'ai rien compris ...
+<julienbras> OK laurent
+<julienbras> par contre pour moi le max d'info sur les anciens projet ca correspond aux fiches projets :)
+<Laurent2346> Oui
+<Traveler18> d'ac aussi
+* Traveler18 s'appelle maintenant Lyonel
+<julienbras> ACTION: mail d'intro a l'équipe en place 
+<Laurent2346> Etre sur que l'on a un maximum de ces infos
+<julienbras> les fiches projets ?
+<Lyonel> Un mail ca servira à rien ...
+<Lyonel> il faudrait se présenter à eux en personne
+<Laurent2346> Une rencontre ?
+<Lyonel> organiser genre un apéro
+<julienbras> c'est mieux c'est sur !
+<julienbras> qui est sur lyon
+<Laurent2346> Je propose a Doha ?
+<julienbras> lol
+<Lyonel> ok pour doha
+<julienbras> pour profiter de la plage :)
+<Lyonel> tu payes les billets ?
+<Laurent2346> Il y a une tres belle salle de conf au Ritz...
+<Laurent2346> Lol
+<Lyonel> (le rose ca fait un peu gay, je change pour le bleu !)
+<Laurent2346> Non, de mon cotes, je serai en France mi-fin avril
+<julienbras> ok
+<julienbras> moi je suis sur paris en gal
+<Lyonel> trop tard pour l'equipe actuelle et trop tot pour la prochaine
+<julienbras> et toi lyonel t'es dans quel coin ?
+<Lyonel> moi toujours dans les environs de Lyon mais plus pour très longtemps
+<julienbras> ok
+<Lyonel> j'ai peut être 2-3 personnes de mon équipe de dispo sur Lyo
+<Laurent2346> Je ne pense pas que ce soit un soucis. On passe les voir. On peux aussi rencontrer nos dirigeant de l'ECAM, voir de nouveau potentiel menbres, etc.
+<Laurent2346> membres
+<Lyonel> Lyon
+<Lyonel> dont pijou
+<julienbras> ok
+<julienbras> bon ACTION: organiser une rencontre avec l'équipe en place
+<Laurent2346> Vendu
+<Lyonel> pour fin avril oui c'est sûr autant passer si on peut
+<julienbras> (faudra mettre des noms derierre les actions, hein...)
+<Laurent2346> Mince....
+<Lyonel> ok pour moi sous réserve que je sois encore en France
+<Laurent2346> Lol
+<julienbras> ok
+<julienbras> on verra apres
+<julienbras> pour les details pratiques
+<Laurent2346> Pas de soucis pour moi. Je rentre pour 1 mois et demi
+<julienbras> ok
+<Laurent2346> Oui
+<julienbras> on passe au point 2/
+<julienbras> ?
+<Laurent2346> J'attends un retour de Yaounde
+<julienbras> ok
+<Laurent2346> J'ai envoye un questionnaire a 4 anciens il y a une semaine
+<julienbras> sur le site on a ouaga / lomé / st louis 2001
+<Lyonel> bob tu prends des notes ?? ou tu peux récupérer l'historique de la convers ??
+<julienbras> oui je sauvegarde l'historique
+<julienbras> je ferais le CR
+<Lyonel> ok
+<julienbras> no soucy
+<julienbras> ok pour la fiche de yaoundé
+<Lyonel> pour Kaya tout roule quasi comme quand est parti de la bas
+<julienbras> cool
+<julienbras> tu pourra en faire une fjiche ? :)
+<Lyonel> t'as la trame ??
+<julienbras> yes je te l'envoie
+<Lyonel> en format word ou truc du genre ?
+<julienbras> ACTION: envoyer trame fiche projet a lyonel
+<Lyonel> ok super je la remplie des que je la recoit
+<julienbras> oui en word
+<Laurent2346> Impecable
+<julienbras> reste douala 2002 / dakar 2003 et sokodé 2009
+<julienbras> je vais essayer de bouger mes contact pour 2002 et 2003
+<julienbras> vous avez des contact sur sokodé ?
+<Laurent2346> Sokode... Lyonel ? Tu as des contacts 'danciens ?
+<Lyonel> pour 2009 je peux demander à la présidente un coup de main ainsi qu'a 2/3 autres personnes
+<Laurent2346> Belle
+<Laurent2346> ACTION
+<julienbras> ACTION: fiche projet douala 2002 et daka 2003 > julien
+<Lyonel> tu lis dans mes pensées ?!
+<julienbras> ACTION: fiche projet sokodé 2009 > lyonel
+<Laurent2346> ACTIOn : fiche projet 2008 > Laurent
+<julienbras> :)
+<Laurent2346> Dsl pour le n
+<julienbras> je me demerderai :)
+<Laurent2346> Organisation des points CO : périodicité / CR ... ?
+<Laurent2346> Poimt 3
+<julienbras> yes
+<julienbras> mensuel ca me plait
+<julienbras> pas trop souvent mais important quand meme
+<Laurent2346> Je suis
+<julienbras> lyonel ?
+<julienbras> wifi : dead ?
+<Lyonel> au début on avait pas dis 1x/trimestre ??
+<Laurent2346> Je crois que c'est trop long
+<julienbras> dur de suivre l'activité avec un suivi 4 fois par an
+<julienbras> ca fait 4 réunions par équipe
+<julienbras> :/
+<Lyonel> un truc pas trop con a mon sens serait de calquer nos rdv avec des dates importantes pour AE
+<julienbras> genre ?
+<Laurent2346> Vin chaud...
+<Lyonel> -2 semaines
+<Lyonel> genre à la rentrée
+<Lyonel> toussaint
+<Lyonel> mars
+<Laurent2346> Oui
+<julienbras> ouais
+<Lyonel> fin avril
+<Lyonel> avant depart
+<Laurent2346> Et entre un peu pour nous preparer...
+<julienbras> on peut aussi faire des points rapide par chat ici meme, et des points de visu quand on peut a ces moments + importants
+<Lyonel> et on décale nos RDV de 2 semaines de ces étapes importantes des projets
+<julienbras> ouais
+<julienbras> ok
+<julienbras> réunions a planifier finement
+<julienbras> donc
+<Lyonel> ca nous laisse le temps de faire un CR, avoir des retours
+<Lyonel> et COMMUNIQUER !!
+<Lyonel> C'est crai que ce chat IRC est génial
+<julienbras> merci
+<Lyonel> pour des points rapides c nikel
+<julienbras> c les geeks qui utilisent ca
+<Laurent2346> Lol
+<julienbras> bon on part sur 1 point par mois 'relativement' calé avec les dates clés d'AE ?
+<Laurent2346> Vendu
+<Laurent2346> Avec qques baisses d'activite evidente en fin d'annee, ete, etc.
+<julienbras> donc ACTION: 1 point par mois 'relativement' calé avec les dates clés d'AE
+<Laurent2346> Mais ca me vas
+<julienbras> bien sur
+<julienbras> on paufinera ca :)
+<Laurent2346> Point suivant
+<julienbras> le CR
+<julienbras> je veux bien faire un CR apres chaque réunion
+<julienbras> avec les actions nouvelles / prévues / réalisés...
+<Laurent2346> Merci
+<julienbras> ACTION: 1 CR apres chaque réunion > julien
+<julienbras> point suivant/
+<julienbras> equipe en cours
+<julienbras> que font ils ?
+<julienbras> on-t-il besoin d'aide ?
+<Laurent2346> Les rencontrer
+<julienbras> yes
+<julienbras> y'a déja une action sur le sujet
+<julienbras> on va pas en rajouter hein
+<Laurent2346> Lol
+* Lyonel est parti (Ping timeout: 252 seconds)
+<julienbras> wifi /dead
+<Laurent2346> Again...
+* Traveler57 (~fn-javach@92.61.135.251) a rejoint #africedu
+* Traveler57 s'appelle maintenant Lyonel
+<julienbras> lol
+<Laurent2346> Il me semble diff d'avoir un bon retour de leurs part la dessus sans les rencontrer
+<julienbras> ok vendu
+<julienbras> donc on les rencontre d'abord
+<Lyonel> je sais... cette fois ci ca vient de ma connexion internet ...
+<julienbras> lol
+<Laurent2346> On peu tjs demander des nouvelles par mails
+<Laurent2346> LOL
+<julienbras> j'ai essayé recemment j'ai pas eu de retour
+<Laurent2346> Et dire qu'a 4500 Km ca marche mieux...
+<julienbras> mega lol
+<julienbras> et 5/ Comment on organise la com .
+<julienbras> ?
+<Laurent2346> Je ne sais pas si on dois attendre de les voir ou si on les recontacts
+<Laurent2346> dsl, j'etai sur le point d'avant
+<julienbras> ok
+<julienbras> pas de soucs
+<julienbras> n'éhsite pas a revenir sur un point si tu pense qu'on va trop vite
+* Traveler63 (~fn-javach@92.61.135.251) a rejoint #africedu
+<julienbras> on n'est pas encore super calé sur les réunions en-ligne
+<julienbras> surtout lyonel :D
+<Traveler63> ouais j'ai un FAI de merde
+<Laurent2346> Pour la comm... Email, chat et reunion physic le plus souvent possible mais c ce qui sera le plus dure.
+<Traveler63> regarde vite fait "numeo" et tu comprendras ...
+<Traveler63> vous avez vu le site d'AE ??
+<julienbras> numeo ?
+<Traveler63> y'a un lien vers le site du co
+<Traveler63> oui "NUMEO"
+<julienbras> le FAI ok :)
+<julienbras> y'a un lien vers le CO oui
+<Traveler63> c'est "l'internet rural !"
+<julienbras> lol
+* Lyonel est parti (Ping timeout: 252 seconds)
+<Laurent2346> Lol
+<Traveler63> est-ce que ce lien est la pck il était présent avant ??
+<julienbras> l'internet rural : en alternacne :)
+<Traveler63> ou savent-ils qui/qu'est ce que le CO ??
+<julienbras> lyonel : que veut tu dire par la ?
+<Traveler63> (pb d'IP variable...)
+<Traveler63> et bien qu'avoir un lien vers nous c'est bien
+<Traveler63> mais quel intérêt si personne ne sait ce qu'on fait?
+<julienbras> c sur
+<julienbras> ca rejoint la consversation sur l'utilité du CO
+<julienbras> et sur notre non-action depuis des mois
+<Traveler63> la comm devrait commencer par implanter sérieusement notre nom (CO) au sein des équipes AE pour qu'elles aient le reflexe
+<Laurent2346> Il vas falloir justifer un peu notre role...
+<julienbras> yes
+<julienbras> d'accord avec vous 2
+<julienbras> (et nos salaires de ministres !)
+<julienbras> [oui, on peut aussi déconner sur IRC !]
+<Laurent2346> Bien sur
+<Traveler63> une fois que l'equipe qui nous sommes, serait-il techniquement envisageavle de mettre en place un forum ??
+<Traveler63> *sait
+<Traveler63> ok
+<Traveler63> parce que mon idée est la suivante
+<Traveler63> 1. Faire prendre conscience rapidement à l'equipe en place de notre présence pour les aider (réunion/contact)
+<Traveler63> 2. Mise en place d'un forum ou on peut répondre rapidement à leurs questions
+<julienbras> mouais
+<julienbras> j'ai peur que le forum se transforme en lieu ou personne ne va
+<julienbras> un mail à co@africedu.fr
+<julienbras> c'est pas plus simple ?
+<julienbras> (c'est una avis)...
+<Laurent2346> D'accord avec Julien
+<julienbras> je viens de retirer le forum présent sur africedu.fr depuis 2 ans ( 1 post !)
+<Laurent2346> Mais pour cela, il faut relancer et relancer encore l'equipe de notre existance
+<julienbras> yes
+<Traveler63> 3. Communiquer auprès des anciens, actuels et futurs (?) sponsors via newsletter
+<Traveler63> le truc du forum c'est pas génial je te l'accorde
+<julienbras> ok pour les newsletter
+<julienbras> ca c'est bien on est obligé de les lire
+<Laurent2346> oui
+<julienbras> lyonel, je te sens motivé pour la partie com en tout cas :)
+<julienbras> tu vas choper des actions je te dis !!
+<julienbras> :D
+<Laurent2346> Lol
+<Laurent2346> Bien, je vous aime mais je sombre devant mon ecran et dois me lever dans 5h...
+<julienbras> ok on va conclure
+<Laurent2346> Lyonel ?
+<Traveler63> je suis de cet avis mais avec la génération facebook ...
+<Traveler63> je sais pas trop ...
+* Traveler63 s'appelle maintenant Lyonel
+<Lyonel> dsl ...
+<Lyonel> oui
+<Lyonel> oui mais on aura toujours le même pb: quoi mettre dedans ?? Ou recup les infos ??
+<julienbras> ACTION: réflechir à la com (newsletter ?/ périodicité/cible) > lyonel
+<Lyonel> Ca me dérange pas j'ai déja fait la premier seule et unique du nom d'ailleurs ...
+* Lyonel est parti (Quit: Java user signed off)
+* Traveler64 (~fn-javach@92.61.135.251) a rejoint #africedu
+<julienbras> lyonel il arrive a écrire 5 lignes d'un coup et se deconnecter dans la foulée
+<julienbras> enorme
+<Laurent2346> Lol
+<julienbras> pour la com on verra p-e plus tard
+<Laurent2346> Je suis d'accord
+<julienbras> on va déjà monter l'équipe en interne avec de faire des signaux de fumée à l'exterieur
+<Laurent2346> Si on arrive deja a un resultat au bout de qques semaines, on aura ensuite de quoi commencer a lancer la comm
+<julienbras> pour l'instant focus sur nos priorité : l'équipe en cours et la consiltation de nos données
+<Laurent2346> Vendu 1
+<julienbras> ok on finit la donc, 
+<Laurent2346> Exact.
+<julienbras> je fais la synthese et vous envoie un CR
+<julienbras> mais en tout cas je vous remercie de votre présence :)
+<Laurent2346> Geniale. Merci bcp Julien
+<julienbras> (sporadique pour lyonel !!)
+<Laurent2346> Merci a toi surtout
+<Laurent2346> Et donc a bientot !
+<julienbras> africedu me tient a coeur, j'y peux rien ;)
+<julienbras> yep a +
+<julienbras> bonne nuit
+* Traveler64 est parti (Client Quit)
+<Laurent2346> Merci. toi aussi.
+* Laurent2346 est parti (Quit: Java user signed off)
