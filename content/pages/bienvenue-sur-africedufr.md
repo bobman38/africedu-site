@@ -5,7 +5,7 @@ save_as: index.html
 
 ![]({filename}/images/img016.jpeg)
 
-[**africedu.fr**](http://africedu.fr) est le site du Conseil
+[**africedu.sidoine.org**](http://africedu.sidoine.org) est le site du Conseil
 d'Orientation d'AfricEdu. Le site officiel d'Africedu est
 [**ici**](http://africedu.ecam.fr). Le site sur lequel vous êtes a pour
 objectif de centraliser toutes les informations relatives à
@@ -32,5 +32,3 @@ Suite à la réunion du 21 mai 2008 avec les membre d’Afric’Edu et
 quelques professeurs de l’ECAM ; il a été officiellement décidé la
 création d’un ‘Conseil d’Orientation’ au sein d’Afric’Edu. Un compte
 rendu est posté dans les articles ci-dessous.
-
-

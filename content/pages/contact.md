@@ -4,7 +4,7 @@ Author: admin
 Slug: contact
 pageorder: 30
 
-<form action="//formspree.io/contact@africedu.fr" method="POST">
+<form action="//formspree.io/contact@sidoine.org" method="POST">
   <div class="form-group">
     <label for="name">Nom</label>
     <input type="text" class="form-control span8" id="name" aria-describedby="nameHelp" placeholder="Entrer nom" required>
@@ -20,5 +20,5 @@ pageorder: 30
   <button type="submit" class="btn btn-primary">Envoyez</button>
   <input type="hidden" name="_language" value="fr" />
   <input type="hidden" name="_next" value="/pages/thanks.html" />
-  <input type="hidden" name="_subject" value="Message du site africedu.fr">
+  <input type="hidden" name="_subject" value="Message du site africedu.sidoine.org">
 </form>
