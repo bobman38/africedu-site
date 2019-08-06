@@ -12,4 +12,4 @@ L’Equipe 2013 :
 * Responsable évènement : Anne MARGUET
 * Responsable Informatique : Jean-Philippe CHATAIN, Xavier HOUNDONOUGBO
 
-![Equipe]({filename}/images/madagascar3.jpg)
+![Equipe]({static}/images/madagascar3.jpg)

@@ -3,7 +3,7 @@ Date: 2014-11-11
 Author: julien
 Slug: madagascar-2013-2014
 
-![Equipe]({filename}/images/madagascar1.jpg)
+![Equipe]({static}/images/madagascar1.jpg)
 
 L’été dernier, l’équipe d’Afric’Edu est partie en mission à Madagascar, au sein de l'Institution NUR, qui s'occupe des enfants orphelins, handicapés ou en situation précaire. Mathilde COURVOISIER, présidente de l’association à cette date-là, ainsi que Xavier HOUNDONOUGBO et Océane MOTHION reviennent sur cette belle expérience et nous livrent leur témoignage.
 
@@ -27,4 +27,4 @@ Texte par Mathilde, Xavier, Océane
 
 Propos recueillis par Marie SOUALAH
 
-![Equipe]({filename}/images/madagascar2.jpg)
+![Equipe]({static}/images/madagascar2.jpg)

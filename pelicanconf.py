@@ -45,7 +45,12 @@ DEFAULT_PAGINATION = 10
 THEME = 'themes/built-texts'
 TAGS_SAVE_AS = ''
 TAG_SAVE_AS = ''
-STATIC_PATHS = ['images', 'files']
+STATIC_PATHS = ['images', 'files', 'extra/CNAME']
+
+EXTRA_PATH_METADATA = {
+    'extra/CNAME': {'path': 'CNAME'}
+}
+
 DISPLAY_PAGES_ON_MENU = True
 
 # Uncomment following line if you want document-relative URLs when developing

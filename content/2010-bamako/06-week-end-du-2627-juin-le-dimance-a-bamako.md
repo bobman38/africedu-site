@@ -17,7 +17,7 @@ Ghana/Etats-Unis. Le cri général qui s'éleva dans tout le quartier après
 le 2eme but victorieux du Ghana nous montre à quel point toute l'Afrique
 est unie derrière le dernier représentant du continent hôte... Comme
 c'est beau une Coupe Du Monde, quelle ferveur!  
-  
+
 Le dimanche à Bamako... C'est le jour de mariage!  
 Au matin nous partons acheter tout le matériel pour réaliser nos
 multiprises artisanales! (oui, artisanales, c'est bien un mec qui les
@@ -28,12 +28,10 @@ câble, 15 prises mâles et 94 prises femelles!
 Sur toute la route nous croisons de nombreuses célébrations de mariage.
 Ousmane nous confirme que c'est bien le jour de mariage ici...
 
-</p>
-[![](http://3.bp.blogspot.com/_tav7TaMvWUo/TDJlTGZ6C2I/AAAAAAAAABY/1HGYM52F9i4/s400/P1130087.JPG)](http://3.bp.blogspot.com/_tav7TaMvWUo/TDJlTGZ6C2I/AAAAAAAAABY/1HGYM52F9i4/s1600/P1130087.JPG)[![](http://2.bp.blogspot.com/_tav7TaMvWUo/TDJm8iWzL7I/AAAAAAAAABg/62syy-ucwZY/s400/P1130094.JPG)](http://2.bp.blogspot.com/_tav7TaMvWUo/TDJm8iWzL7I/AAAAAAAAABg/62syy-ucwZY/s1600/P1130094.JPG)
+![P1130087]({static}/images/bamako/P1130087.jpg)
+
+![P1130094]({static}/images/bamako/P1130094.jpg)
 
 L'après midi nous mangeons tous chez Moussa. Sa femme et sa sœur nous
 ont préparé un véritable festin. On se régale.  
 Dimanche soir : encore un orage, quel bonheur (température chute!).
-
-</p>
-

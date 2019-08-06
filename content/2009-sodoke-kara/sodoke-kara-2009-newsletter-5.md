@@ -28,11 +28,12 @@ population accueillante du Togo qui ont fait de cette mission 2009 un
 magnifique voyage.
 
 </p>
-[![](http://1.bp.blogspot.com/_ratvGwwHW9Q/Snq5NNcILQI/AAAAAAAADJc/PiVMiPGxa3s/s320/IMG_6653.JPG)](http://1.bp.blogspot.com/_ratvGwwHW9Q/Snq5NNcILQI/AAAAAAAADJc/PiVMiPGxa3s/s1600-h/IMG_6653.JPG)  
+
+![IMG_6653]({static}/images/IMG_6653.JPG)
+
 Ciao à tous
 
 </p>
 Damien
 
 </p>
-

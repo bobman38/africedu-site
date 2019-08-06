@@ -3,7 +3,7 @@ Author: julien
 Slug: bienvenue-sur-africedufr
 save_as: index.html
 
-![]({filename}/images/img016.jpeg)
+![intro]({static}/images/img016.jpeg)
 
 [**africedu.sidoine.org**](http://africedu.sidoine.org) est le site du Conseil
 d'Orientation d'AfricEdu. Le site officiel d'Africedu est
@@ -11,7 +11,7 @@ d'Orientation d'AfricEdu. Le site officiel d'Africedu est
 objectif de centraliser toutes les informations relatives à
 l'association : projets passés, suivi, avenir.... Pour plus d'info sur
 le Conseil d'Orientation vous pouvez lire cet
-[**article**]({filename}/conseil-orientation/conseil-dorientation.md). Les liens au dessus
+[**article**]({static}/conseil-orientation/conseil-dorientation.md). Les liens au dessus
 permettent d'accéder aux différentes ressources (armoire à documents,
 calendrier, dossier des projets et des newsletters...). Un bloc en bas
 de cette première page affiche les dernières modifications sur le site

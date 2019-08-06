@@ -4,9 +4,9 @@ Slug: 2005-ouaga
 
 # Projet Ouaga 2005
 
-![equipe]({filename}/images/equipe.jpg "equipe")
+![equipe]({static}/images/equipe.jpg "equipe")
 
-![equipe et partenaire du sud]({filename}/images/equipe%20et%20partenaire%20du%20sud.jpg "equipe et partenaire du sud")
+![equipe et partenaire du sud]({static}/images/equipe%20et%20partenaire%20du%20sud.jpg "equipe et partenaire du sud")
 
 https://youtu.be/oYt36wHsXFk
 

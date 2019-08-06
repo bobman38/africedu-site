@@ -3,4 +3,4 @@ Date: 2013-12-23
 Author: julien
 Slug: newsletter1
 
-![Equipe]({filename}/images/madagascar4.png)
+![Equipe]({static}/images/madagascar4.png)

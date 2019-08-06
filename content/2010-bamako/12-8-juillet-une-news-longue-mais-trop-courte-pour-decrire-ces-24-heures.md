@@ -3,11 +3,16 @@ Date: 2010-12-16 21:37
 Author: julien
 Slug: 12-8-juillet-une-news-longue-mais-trop-courte-pour-decrire-ces-24-heures
 
-[![](http://4.bp.blogspot.com/_tav7TaMvWUo/TEQItkDzubI/AAAAAAAAACI/NpZ-GpuTpgg/s200/IMGP5674a.JPG)](http://4.bp.blogspot.com/_tav7TaMvWUo/TEQItkDzubI/AAAAAAAAACI/NpZ-GpuTpgg/s1600/IMGP5674a.JPG)  
-[![](http://2.bp.blogspot.com/_tav7TaMvWUo/TEQGp_P49WI/AAAAAAAAACA/6efwzh-_PnM/s200/IMGP5665a.JPG)](http://2.bp.blogspot.com/_tav7TaMvWUo/TEQGp_P49WI/AAAAAAAAACA/6efwzh-_PnM/s1600/IMGP5665a.JPG)  
-[![](http://1.bp.blogspot.com/_tav7TaMvWUo/TEQFiPWC4GI/AAAAAAAAAB4/9oJF-Gh9Pu8/s200/IMGP5658a.JPG)](http://1.bp.blogspot.com/_tav7TaMvWUo/TEQFiPWC4GI/AAAAAAAAAB4/9oJF-Gh9Pu8/s1600/IMGP5658a.JPG)  
-[![](http://4.bp.blogspot.com/_tav7TaMvWUo/TEQEyGBdXAI/AAAAAAAAABw/OAq9p9RTn1s/s200/IMGP5638a.JPG)](http://4.bp.blogspot.com/_tav7TaMvWUo/TEQEyGBdXAI/AAAAAAAAABw/OAq9p9RTn1s/s1600/IMGP5638a.JPG)  
-[![](http://2.bp.blogspot.com/_tav7TaMvWUo/TEQDqyvYVZI/AAAAAAAAABo/U86l9_KSd8E/s200/IMGP5592a.JPG)](http://2.bp.blogspot.com/_tav7TaMvWUo/TEQDqyvYVZI/AAAAAAAAABo/U86l9_KSd8E/s1600/IMGP5592a.JPG)
+![bamako1]({static}/images/bamako/IMGP5674a.jpg)
+
+![bamako2]({static}/images/bamako/IMGP5665a.jpg)
+
+![bamako3]({static}/images/bamako/IMGP5658a.jpg)
+
+![bamako4]({static}/images/bamako/IMGP5638a.jpg)
+
+![bamako5]({static}/images/bamako/IMGP5592a.jpg)
+
 
 Au matin du jeudi 8 Juillet Ousmane vient nous chercher.
 
@@ -309,4 +314,3 @@ incroyables, de merveilles et d’ouverture d’esprit.
 Merci Ousmane, merci l’Afrique.
 
 </p>
-

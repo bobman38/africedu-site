@@ -24,4 +24,4 @@ Bonne lecture à tous!
    
 Le Conseil d'Orientation - Afric'Edu
 
-[Newsletter 1.pdf]({filename}/files/Newsletter%201.pdf)
+[Newsletter 1.pdf]({static}/files/Newsletter%201.pdf)

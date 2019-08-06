@@ -37,7 +37,7 @@ existent pour ça...). J'avais résumé ce concept dans les deux documents
 suivant ; le premier pour présenter les évolutions ; et le second
 présente une réecriture des Statuts.
 
-[Evolutions\_AE.pdf]({filename}/files/Evolutions_AE.pdf)
+[Evolutions\_AE.pdf]({static}/files/Evolutions_AE.pdf)
 
-[Statuts\_AE\_V2.pdf]({filename}/files/Statuts_AE_V2.pdf)
+[Statuts\_AE\_V2.pdf]({static}/files/Statuts_AE_V2.pdf)
 

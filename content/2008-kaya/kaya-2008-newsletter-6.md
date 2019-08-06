@@ -82,7 +82,7 @@ pour retrouver amis et famille. Pas de doute, on aura matière à
 alimenter les discussions... !
 
 </p>
-![]({filename}/images/P1000946.JPG)
+![P1000946]({static}/images/P1000946.JPG)
 
 </p>
 *Bill fou* ! (à très bientôt en Mooré – écriture phonétique)

@@ -75,4 +75,4 @@ Bonne continuation à tous !
 Fanny et Marie  
 Communication Afric'edu 2007
 
-[2007 article leprogres.pdf]({filename}/files/2007%20article%20le%20progres.pdf)
+[2007 article leprogres.pdf]({static}/files/2007%20article%20le%20progres.pdf)

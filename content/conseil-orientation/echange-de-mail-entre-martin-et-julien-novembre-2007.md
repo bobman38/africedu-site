@@ -142,4 +142,4 @@ https://youtu.be/s0vGaldm6aU
 >
 > bob
 
-[Conseil\_Orientation.zip]({filename}/files/Conseil_Orientation.zip)
+[Conseil\_Orientation.zip]({static}/files/Conseil_Orientation.zip)

@@ -4,7 +4,7 @@ Author: julien
 Slug: saint-louis-2004
 # Saint Louis 2004
 
-![equipe-afric-2004 2]({filename}/images/equipe-afric-2004%202.jpg "equipe-afric-2004 2")
+![equipe-afric-2004 2]({static}/images/equipe-afric-2004%202.jpg "equipe-afric-2004 2")
 
 ## Equipe  
 
